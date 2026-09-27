@@ -1,0 +1,13 @@
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Compiled Java files
+*.class
+
+# Derby database files
+derby.log
